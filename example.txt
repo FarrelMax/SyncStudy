@@ -1,0 +1,2 @@
+hi this is an example of me trying to stage, commit and push to Git
+ok so this is the updated file
