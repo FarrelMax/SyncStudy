@@ -1,0 +1,2 @@
+node_modules/
+.env # Add other files or folders that should be ignored
